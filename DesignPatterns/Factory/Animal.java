@@ -1,4 +1,4 @@
-package Factory;
+package DesignPatterns.Factory;
 // Simple Factory Pattern 
 abstract class Animal {
     abstract void makeSound();

@@ -1,4 +1,4 @@
-package Factory;
+package DesignPatterns.Factory;
 // factory method pattern for notifications
  interface Notification {
     void send();

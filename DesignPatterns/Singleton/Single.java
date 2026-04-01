@@ -1,4 +1,4 @@
-package Singleton;
+package DesignPatterns.Singleton;
 
 import java.util.List;
 
